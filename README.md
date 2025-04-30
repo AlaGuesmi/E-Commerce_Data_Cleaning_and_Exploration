@@ -1,4 +1,4 @@
-# E-Commerce_Data_Cleaning_and_Manipulation
+# E-Commerce_Data_Cleaning_and_Exploration
 This project simulates a small e-commerce dataset with a mix of numerical, categorical, and textual data. Using pandas and NumPy, the project focuses on preprocessing and exploring the data to prepare it for further analysis or modeling.
 
 🧰 **Tools Used**
